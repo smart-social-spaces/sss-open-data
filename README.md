@@ -7,7 +7,7 @@ This repository will be the central point for distribution of data from the Smar
 Data in CSV format will be regularly uploaded to this repository. 
 
 ## License
-This data is released under a GPL 3 license. For more information, see terms and conditions [here](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+This data is released under a Creative Commons 3.0 license. For more information, see terms and conditions [here](https://creativecommons.org/licenses/by/3.0/au/). 
 
 ## Smart Social Spaces
 More information on the Smart Social Spaces project can be found [here](https://cityfutures.be.unsw.edu.au/research/projects/smart-social-spaces-smart-street-furniture-supporting-social-health/).
